@@ -1,1 +1,2 @@
-## MongoDB + Node.js + Express.js + React.js + Webpack + Redux
+### React.js + Webpack + Redux + Node.js + Jekyll
+##### Very basic template
