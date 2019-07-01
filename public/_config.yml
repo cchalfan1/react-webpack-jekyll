@@ -1,0 +1,22 @@
+# Jekyll Configuration
+
+title: SAAS Template
+description: This product helps you do many amazing things
+
+destination: _dist
+
+port: 4041
+
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      type: pages
+    values:
+      layout: default
+
+exclude: [
+  initial-template/,
+  readme.md
+]
